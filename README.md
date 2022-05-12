@@ -1,0 +1,2 @@
+# Estudos
+alguns conhecimentos básicos
